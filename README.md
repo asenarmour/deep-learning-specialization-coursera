@@ -1,5 +1,16 @@
 # deep-learning-specialization-coursera
-this repo cointain jupyter notebooks of assignment that i took on this specialization
 
 
-## COURSE-1: Neural Networks and Deep Learning
+Instructor : [Andrew Ng](https://www.andrewng.org/)
+
+---------------
+
+
+## Introduction:
+This repo contains all `jupyter notebooks` that were present as an assignment in this course.
+
+-------------------
+
+## Programming assignments:
+
+--------------------
